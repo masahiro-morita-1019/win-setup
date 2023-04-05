@@ -3,7 +3,7 @@ for set up windows by chocolatey
 
 # 手順
 ## chocolatey install
-https://chocolatey.org/install にアクセスし、インストールコマンドをコピーする。
+[https://chocolatey.org/install](https://chocolatey.org/install) にアクセスし、インストールコマンドをコピーする。
 ただしChoose How to Install Chocolatey は基本的に「Individual」でよい
 
 ## packageのインストール
@@ -13,3 +13,7 @@ https://chocolatey.org/install にアクセスし、インストールコマン�
 ```
 choco install package.config 
 ```
+
+## 補足
+[https://community.chocolatey.org/packages](https://community.chocolatey.org/packages)
+で必要なパッケージは検索できる
